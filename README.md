@@ -1,7 +1,3 @@
-# minecraft-java-server-setup-guide
-This is a Minecraft Java Edition Server Set-up Guide
-Here's a friendly and informative README you can use for your GitHub repository:
-
 🧱 How to Set Up a Minecraft Java Server
 Welcome to this guide! I created this repository to help anyone who wants to set up their own Minecraft Java Edition server. The idea came from a friend who asked me how to do it—so I decided to write everything down and share it here for others too.
 🎯 What You'll Find Here
