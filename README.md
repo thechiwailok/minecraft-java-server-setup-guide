@@ -14,11 +14,11 @@ Welcome to this guide! I created this repository to help anyone who wants to set
 - Download the official Minecraft server .jar file from minecraft.net.
 - Create a folder for your server and place the .jar file inside.
 - Run the server using the command:
-java -Xmx1024M -Xms1024M -jar server.jar nogui
+java -Xmx1024M -Xms1024M -jar fabricserver.jar nogui
 - Accept the EULA by editing eula.txt.
 - Customize server.properties to your liking.
 - Set up port forwarding on your router to allow friends to connect.
-- Share your public IP address with your friends (or use a service like DynDNS).
+- Share your public IP address with your friends (or use a service like PlayIT.gg).
 📦 Optional: Mods and Plugins
 If you want to enhance your server, check out options like:
 - Spigot or Paper for performance and plugin support
